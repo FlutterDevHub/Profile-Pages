@@ -9,8 +9,9 @@
             </td>
             <td align="center">
                 <h3>Profile(1)</h3>
-                <img src="...." width="250" height="auto">
+                <img src="https://github.com/user-attachments/assets/634dbf1f-ab95-434a-8d2d-4de90b34b0cb" width="250" height="auto">
             </td>
         </tr>
     </table>
 </div>
+
